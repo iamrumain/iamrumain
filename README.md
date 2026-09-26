@@ -275,3 +275,4 @@ commit d4a6b88  [SHIPPED]  Portfolio v3 — Dark Cyber-SaaS Theme
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2744,60:0c1a2e,100:0a0f1a&height=100&section=footer&reversal=true" width="100%"/>
+

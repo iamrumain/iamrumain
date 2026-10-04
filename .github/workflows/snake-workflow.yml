@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+# Allow the workflow to push to the output branch
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
